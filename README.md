@@ -1,4 +1,4 @@
-## 👋 Soy Rdrgrvram
+##  Soy Rdrgrvram
 
 Estudiante que aprende haciendo proyectos. Lo mío es el ecosistema JavaScript/TypeScript, tanto en backend como en frontend. También me manejo con bases de datos relacionales y Docker.
 
