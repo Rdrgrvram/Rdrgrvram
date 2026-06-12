@@ -1,4 +1,4 @@
-##  Soy Rdrgrvram
+##  Soy Rodrigo Rivera
 
 Estudiante de sis que aprende haciendo proyectos. Lo mío es JavaScript/TypeScript o python, tanto en backend como en frontend. También me manejo con bases de datos relacionales o no relacionales y Docker.
 
